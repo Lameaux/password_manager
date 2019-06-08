@@ -1,2 +1,2 @@
-# password_manager
-Password Manager (React + Firebase)
+# Password Manager
+Using React and Firebase
